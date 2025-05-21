@@ -12,9 +12,6 @@ O objetivo deste projeto é criar uma aplicação web básica onde os usuários 
 
 Em seguida, desenvolvemos testes automatizados para garantir que essas funcionalidades operem conforme o esperado, cobrindo tanto a lógica interna da aplicação (testes unitários) quanto a interação do usuário com a interface (testes de sistema).
 
-### Estrutura do Projeto
-![Estrutura do Projeto](./estrutura.png "Estrutura do Projeto")
-
 ### Como Configurar e Rodar o Projeto
 
 Siga os passos abaixo para configurar seu ambiente de desenvolvimento e executar a aplicação, bem como os testes.
